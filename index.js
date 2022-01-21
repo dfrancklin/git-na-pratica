@@ -1,1 +1,1 @@
-console.log("hello pretty world!");
+console.log("hello world");
